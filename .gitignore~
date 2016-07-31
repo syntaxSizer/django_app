@@ -1,4 +1,5 @@
-myenv
+
+/myenv
 *.pyc
 staticfiles
 *.env	
