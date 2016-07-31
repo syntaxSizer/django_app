@@ -9,7 +9,9 @@ GENERAL
 	
 
 }
-
+.top-meu{
+color:red;
+}
 /*******************************************
 NAV
 ********************************************/
@@ -83,7 +85,7 @@ HERO
 }
 
 .button.success{
-	background-color: orange;
+	background-color: #FF9400;
 }
 
 
