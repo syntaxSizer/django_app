@@ -3,4 +3,6 @@ myenv/
 *.pyc
 staticfiles
 *.env
-*db	
+*db
+staticfiles/*
+	
