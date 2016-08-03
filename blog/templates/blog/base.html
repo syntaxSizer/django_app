@@ -16,8 +16,9 @@
     <div class="page-header">
         <h1><a href="/">Django Blog</a></h1>
 </div>
+{% if user.is_authenticated %}
 <a href="{% url 'post_new' %}" class="top-menu"><span><img src="{% static 'img/g3053.png'%}"></span></a>
-
+{% endif %}
 <div class="row">&nbsp;</div>
     <div class="content container">
         <div class="row">
