@@ -15,8 +15,9 @@ NAV
 ********************************************/
 
 
-
-
+p{
+color:#fff;
+}
 
 body{
 background-color:#222;
@@ -25,7 +26,10 @@ font-family:Lato;
 }
 
 
-
+.top-menu-edit{
+width:200px;
+height:300px;
+}
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
